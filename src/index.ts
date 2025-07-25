@@ -889,6 +889,7 @@ export const right = [
     "muni",       // Prathyusha Muni  - Sr Site Reliability Engineer
     "murad",      // Amin Murad       - Sr Solutions Engineer
     "nguyen",     // Tommy Nguyen     - Engineering Services - Productivity
+    "nortrup",    // Andy Nortrup     - Director Product Management 
     "nurkulov",   // Temirlan Nurkulov - Sr Software Engineer
     "owen",       // Chris Owen       - Staff Technical Support Engineer
     "padilla",    // John Padilla     - Sr Technical Support Engineer
